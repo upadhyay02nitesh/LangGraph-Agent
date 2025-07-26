@@ -77,9 +77,7 @@ pypiwin32==223
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.1
-pyttsx3==2.99
-pytz==2025.2
-pywin32==311
+
 PyYAML==6.0.2
 referencing==0.36.2
 regex==2024.11.6
